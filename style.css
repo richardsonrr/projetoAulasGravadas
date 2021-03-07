@@ -200,7 +200,7 @@ iframe {
   }
   .imgH {
     max-width: 100vh;
-    max-height: auto;
+    max-height: 95.33px;
     background-color: #21223e;
     display: flex;
     justify-content: space-around;
