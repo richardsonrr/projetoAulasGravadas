@@ -209,6 +209,7 @@ iframe {
   }
   .imgH img {
     max-width: 254px;
+    max-height: 127px;
     border-radius: 87.33px;
     border: 2px solid gold;
   }
