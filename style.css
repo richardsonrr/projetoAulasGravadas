@@ -190,3 +190,26 @@ iframe {
   height: 100%;
   overflow: hidden;
 }
+
+@media screen and (max-width: 500px) {
+  header {
+    background-color: #21223e;
+    width: fit-content;
+    overflow: hidden;
+    border-bottom: 2rem solid #16172bdc;
+  }
+  .imgH {
+    max-width: 375px;
+    max-height: 95.33px;
+    background-color: #21223e;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 20px;
+    padding-top: 0.5rem;
+  }
+  .imgH img {
+    max-width: 254px;
+    border-radius: 87.33px;
+    border: 2px solid gold;
+  }
+}
