@@ -26,20 +26,15 @@ function aulaIH2() {
 }
 function aulaIH3() {
   alert("Aula disponivel em breve");
-  //document.querySelector("iframe").src = "";
 }
 function aulaIH4() {
   alert("Aula indisponivel");
-  //document.querySelector("iframe").src = "";
 }
 //aulaIE1 a 4 ==> otimizar depois para usar apenas uma funcao
 
 function aulaIE3() {
   alert("Aula indisponivel");
-  //document.querySelector("iframe").src = "";
 }
 function aulaIE4() {
   alert("Aula indisponivel");
-  //document.querySelector("iframe").src = "";
 }
-//git page alt
