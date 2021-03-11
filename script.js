@@ -19,36 +19,22 @@ function listaon_2() {
   }
 }
 // aulaIH1 ate a 4 ==> otimizar depois pra usar apenas uma funcao
-function aulaIH1() {
-  document.querySelector("iframe").src =
-    "https://www.youtube.com/embed/MpYwx3bEbRA";
-}
+
 function aulaIH2() {
   document.querySelector("iframe").src =
     "https://www.youtube.com/embed/MpYwx3bEbRA";
 }
 function aulaIH3() {
-  document.querySelector("iframe").src =
-    "https://www.youtube.com/embed/MpYwx3bEbRA";
+  document.querySelector("iframe").src = "#";
 }
 function aulaIH4() {
-  document.querySelector("iframe").src =
-    "https://www.youtube.com/embed/MpYwx3bEbRA";
+  document.querySelector("iframe").src = "#";
 }
 //aulaIE1 a 4 ==> otimizar depois para usar apenas uma funcao
-function aulaIE1() {
-  document.querySelector("iframe").src =
-    "https://www.youtube.com/embed/MpYwx3bEbRA";
-}
-function aulaIE2() {
-  document.querySelector("iframe").src =
-    "https://www.youtube.com/embed/MpYwx3bEbRA";
-}
+
 function aulaIE3() {
-  document.querySelector("iframe").src =
-    "https://www.youtube.com/embed/MpYwx3bEbRA";
+  document.querySelector("iframe").src = "#";
 }
 function aulaIE4() {
-  document.querySelector("iframe").src =
-    "https://www.youtube.com/embed/MpYwx3bEbRA";
+  document.querySelector("iframe").src = "#";
 }
