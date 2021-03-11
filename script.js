@@ -25,7 +25,8 @@ function aulaIH2() {
     "https://www.youtube.com/embed/MpYwx3bEbRA";
 }
 function aulaIH3() {
-  alert("Aula disponivel em breve");
+  document.querySelector("iframe").src =
+    "https://www.youtube.com/embed/byN7ikJ1X3M";
 }
 function aulaIH4() {
   alert("Aula indisponivel");
