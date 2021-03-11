@@ -25,16 +25,20 @@ function aulaIH2() {
     "https://www.youtube.com/embed/MpYwx3bEbRA";
 }
 function aulaIH3() {
-  document.querySelector("iframe").src = "#";
+  alert("Aula disponivel em breve");
+  //document.querySelector("iframe").src = "";
 }
 function aulaIH4() {
-  document.querySelector("iframe").src = "#";
+  alert("Aula indisponivel");
+  //document.querySelector("iframe").src = "";
 }
 //aulaIE1 a 4 ==> otimizar depois para usar apenas uma funcao
 
 function aulaIE3() {
-  document.querySelector("iframe").src = "#";
+  alert("Aula indisponivel");
+  //document.querySelector("iframe").src = "";
 }
 function aulaIE4() {
-  document.querySelector("iframe").src = "#";
+  alert("Aula indisponivel");
+  //document.querySelector("iframe").src = "";
 }
