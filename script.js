@@ -34,7 +34,8 @@ function aulaIH4() {
 //aulaIE1 a 4 ==> otimizar depois para usar apenas uma funcao
 
 function aulaIE3() {
-  alert("Aula indisponivel");
+  document.querySelector("iframe").src =
+    "https://www.youtube.com/embed/WAjYwEhcixk";
 }
 function aulaIE4() {
   alert("Aula indisponivel");
