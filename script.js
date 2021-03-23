@@ -18,6 +18,13 @@ function listaon_2() {
     document.getElementById("iEL").style.display = "block";
   }
 }
+function listaon_3() {
+  if (document.getElementById("eCL").style.display === "block") {
+    document.getElementById("eCL").style.display = "none";
+  } else {
+    document.getElementById("eCL").style.display = "block";
+  }
+}
 // aulaIH1 ate a 4 ==> otimizar depois pra usar apenas uma funcao
 
 function aulaIH2() {
@@ -39,4 +46,15 @@ function aulaIE3() {
 }
 function aulaIE4() {
   alert("Aula indisponivel");
+}
+
+//aulas concreto
+
+function aulaEC1() {
+  document.querySelector("iframe").src =
+    "https://www.youtube.com/embed/NjDU59iuxUc";
+}
+function aulaEC2() {
+  document.querySelector("iframe").src =
+    "https://www.youtube.com/embed/r4J4Jm75pek";
 }

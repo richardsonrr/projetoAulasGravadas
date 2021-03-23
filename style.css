@@ -75,6 +75,9 @@ header {
 #iEL {
   display: none;
 }
+#eCL {
+  display: none;
+}
 .menu-a {
   padding: 2%;
 }
@@ -185,7 +188,7 @@ header {
   padding-bottom: 2rem;
 }
 iframe {
-  max-width: 750px;
+  max-width: 950px;
   max-height: 800px;
   width: 100%;
   height: 100%;
