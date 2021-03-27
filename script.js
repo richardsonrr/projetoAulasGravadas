@@ -38,6 +38,11 @@ function aulaIH3() {
 function aulaIH4() {
   alert("Aula indisponivel");
 }
+function aulaIH5() {
+  document.querySelector("iframe").src =
+    "https://www.youtube.com/embed/63fBu_jsMls";
+}
+
 //aulaIE1 a 4 ==> otimizar depois para usar apenas uma funcao
 
 function aulaIE3() {
@@ -46,6 +51,10 @@ function aulaIE3() {
 }
 function aulaIE4() {
   alert("Aula indisponivel");
+}
+function aulaIE5() {
+  document.querySelector("iframe").src =
+    "https://www.youtube.com/embed/PDI8uHwccvQ";
 }
 
 //aulas concreto
